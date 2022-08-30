@@ -1,2 +1,2 @@
 # Memory_Game
-Memory game : HTML &amp; CSS &amp; JS <br>
+Memory game : <a align="center" href="https://abdelhafidrahab.github.io/Memory_Game/"> 🚀 DEMO  </a> <br>
